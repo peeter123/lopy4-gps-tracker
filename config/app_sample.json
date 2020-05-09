@@ -1,0 +1,11 @@
+{
+    "wifi": {
+        "enabled": false,
+        "ssid": "xxx",
+        "key": "xxx"
+    },
+    "lora": {
+        "app_eui": "xxx", 
+        "app_key": "xxx"
+    }
+}
